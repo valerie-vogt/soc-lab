@@ -10,8 +10,6 @@ Notes and writeups live in `/notes`.
 
 ## Current state
 - One USFF running Proxmox
-- various container services running:
-    - pihole
-    - portainer
-    - Nginx Proxy manager
+  - Ubuntu VM (cloud-init) running Docker:
+    - Pi-hole, Portainer, Nginx Proxy Manager
 - Next: Windows VM + Sysmon, then Wazuh on a second box
