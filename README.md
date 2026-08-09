@@ -10,5 +10,8 @@ Notes and writeups live in `/notes`.
 
 ## Current state
 - One USFF running Proxmox
-- Nothing else deployed yet
+- various container services running:
+    - pihole
+    - portainer
+    - Nginx Proxy manager
 - Next: Windows VM + Sysmon, then Wazuh on a second box
