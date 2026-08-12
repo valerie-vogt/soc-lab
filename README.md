@@ -1,7 +1,7 @@
 # soc-lab
 
 Home security lab: endpoint telemetry, log collection, and detection.
-Notes and writeups live in `/notes`.
+Notes and writeups live in `/notes` (learning) and '/labs' (builds).
 
 ## Hardware
 - 2x Dell OptiPlex USFF — i3-6100T, 8GB RAM
