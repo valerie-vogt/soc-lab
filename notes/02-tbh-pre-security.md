@@ -15,5 +15,5 @@ Date: 2026-08-10
 - N/A
 
 
-## Aditional Note:
+## Additional Note:
  This room taught me nothing, to ensure proper learning i will be skipping ahead.
